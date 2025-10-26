@@ -1,4 +1,4 @@
-# Electronic-Filter-Wheel-EWF-52
+# Electronic-Filter-Wheel-EFW-52
 3D-printable Astrophotography Electronic Filter Wheel EWF-52 (2" filters x5)
 
 The firmware is based on https://github.com/chemistorge/Arduino-Motorised-Filter-Wheel-Xagyl-compatible-ASCOM-and-INDI-
