@@ -1,0 +1,9 @@
+1. 28BYJ-48 stepper with a driver board - 1 pcs
+2. Bearing type 6903 17 x 30 x 7 mm - 1 pcs
+3. Brass inserts for 3D prints M4 6 x 8 mm - 11 pcs
+3. Electronic board with ESP32-C3 - 1 pcs
+4. Hall sensor SS49E - 1 pcs
+5. Neodymium magnet 15 x 3 mm - 1 pcs
+6. M4 x 12 bolts - 11 pcs
+7. M3 bolts (various sizes)
+8. M42 and 50 x 21 mm extension ring (usually part of an astro-camera set).
